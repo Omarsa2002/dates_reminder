@@ -1,0 +1,41 @@
+.dates-container{
+    background-color: rgb(244, 248, 248);
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: -1px 4px 4px 1px rgb(177, 176, 176);
+}
+.button-style{
+    border-radius: 10px;
+    background-color: rgb(61, 45, 106);
+    color: white;
+    border: none;
+    box-shadow: -1px 4px 4px 1px rgb(177, 176, 176);
+    
+
+}
+.button-style:hover{
+    background-color: rgb(77, 64, 111);
+}
+.avatar{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+label{
+    font-size: 20px;
+    margin-top: 5px;
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+    border-style: solid ;
+    box-shadow: -1px 4px 4px 1px rgb(177, 176, 176);
+    margin: 5px;
+}
+.time{
+    margin-top: 8px;
+    margin-left: 11px;
+}
+.name{
+    margin-top: 220px;
+}
